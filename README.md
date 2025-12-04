@@ -12,8 +12,8 @@ Aspiring Software Engineer, focusing on Web & App Development with Data Structur
 ![](https://nirzak-streak-stats.vercel.app/?user=AshrafulAbedin&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulAbedin&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![]"In fact the idea of Elimination is ……. you would have thought of it, right? I mean Gauss thought of it before we did, only because he was born earlier.
+### ✍️ Quote on Linear Algebra 
+"In fact, the idea of Elimination is ……. you would have thought of it, right? I mean Gauss thought of it before we did, only because he was born earlier.
 ……And died earlier too.”
 —Gilbert Strang
 
