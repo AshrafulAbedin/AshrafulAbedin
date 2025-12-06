@@ -1,23 +1,48 @@
-# 💫 About Me:
-Aspiring Software Engineer, focusing on Web & App Development with Data Structures and Machine learning. 
+<div align="center">
 
+[![Hello World, I'm Ashraful!](assets/header.gif)](https://github.com/AshrafulAbedin)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-ashraful-abedin-3b653b1a9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashraful11@iut-dhaka.edu) 
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/your_twitter) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your_linkedin/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your_email@gmail.com?subject=Hello%20Ashraful,%20From%20Github)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AshrafulAbedin&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AshrafulAbedin&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulAbedin&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-### ✍️ Quote on Linear Algebra 
-"In fact, the idea of Elimination is ……. you would have thought of it, right? I mean Gauss thought of it before we did, only because he was born earlier.
-……And died earlier too.”
-—Gilbert Strang
+- 🌱 I’m passionate about **Web Development**, **C++**, and **Machine Learning**.
+- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- ⚡ Fun fact: I love typing challenges, exploring new tech, and playing chess.
 
+<div align="center">
 
+## 💡 A Quote:
 
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 My Tech Stack:
+
+[![C++, Java, Python, JavaScript, HTML, CSS, React, Node.js](https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs)](https://skillicons.dev)
+
+## 📖 Read My Blogs:
+
+<p>
+    <a target="_blank" href="https://dev.to/your_username"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://yourblog.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshrafulAbedin&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulAbedin&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+## 🎮 When I'm AFK:
+
+![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+
+</div>
