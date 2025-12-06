@@ -1,16 +1,15 @@
 <div align="center">
 
 [![Hello World, I'm Ashraful!](assets/header.gif)](https://github.com/AshrafulAbedin)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
-
+Background GIF from [Pinterest](https://www.pinterest.com/pin/5277724550564022/).
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/your_twitter) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your_linkedin/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your_email@gmail.com?subject=Hello%20Ashraful,%20From%20Github)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-ashraful-abedin-3b653b1a9/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:asrafulfardin@gmail.com?subject=Hello%20Ashraful,%20From%20Github)
 
 </div>
 
 - 🌱 I’m passionate about **Web Development**, **C++**, and **Machine Learning**.
-- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats).
 - ⚡ Fun fact: I love typing challenges, exploring new tech, and playing chess.
 
 <div align="center">
@@ -21,7 +20,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 💻 My Tech Stack:
 
-[![C++, Java, Python, JavaScript, HTML, CSS, React, Node.js](https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs)](https://skillicons.dev)
+[![C++, Java, Python, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=cpp,java,python,js,html,css)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
