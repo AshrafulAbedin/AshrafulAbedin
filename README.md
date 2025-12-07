@@ -9,7 +9,7 @@ Background GIF from [Pinterest](https://www.pinterest.com/pin/5277724550564022/)
 
 </div>
 
-- 🌱 I’m passionate about **Web Development**, **C++**, and **Machine Learning**.
+- 🌱 I’m passionate about **System Design**, **C++**, and **Machine Learning**.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats).
 - ⚡ Fun fact: I love typing challenges, exploring new tech, and playing chess.
 
@@ -32,17 +32,15 @@ Background GIF from [Pinterest](https://www.pinterest.com/pin/5277724550564022/)
 
 ## 🏆 My Stats:
 
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshrafulAbedin&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulAbedin&layout=compact&theme=dark" />&nbsp;&nbsp;
+<p> 
+    :/
 </p>
 
 ## 🎮 When I'm AFK:
 
-![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
+![Valorant](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white) &nbsp;
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
-![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) &nbsp;
+![Foodpanda](https://img.shields.io/badge/foodpanda-E23744?style=for-the-badge&logo=zomato&logoColor=white)
 
 </div>
