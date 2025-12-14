@@ -2,7 +2,7 @@
 
 # Md. Ashraful Abedin
 
-**Software Engineer | System Design Enthusiast | Machine Learning Practitioner**
+**Aspiring Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ashraful-abedin-3b653b1a9/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:asrafulfardin@gmail.com)
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a software engineer with a strong focus on **System Design**, **C++** development, and **Machine Learning**. I am passionate about building scalable systems, optimizing performance, and solving complex algorithmic challenges. Currently working on improving my problem-solving skills and contributing to open-source projects.
+I am a software engineer with a strong focus on **System Design**, **C++** development. I am passionate about building scalable systems, optimizing performance, and solving complex algorithmic challenges and currently working on improving my problem-solving skills and contributing to open-source projects.
 
 - 🎓 Focused on computer science fundamentals and software architecture
 - 💼 Seeking opportunities in software development and system design roles
@@ -44,9 +44,8 @@ I am a software engineer with a strong focus on **System Design**, **C++** devel
 ### Areas of Interest
 - Data Structures & Algorithms
 - System Design & Architecture
-- Machine Learning & Neural Networks
 - Performance Optimization
-- Competitive Programming
+
 
 ---
 
@@ -78,7 +77,6 @@ I occasionally write technical articles on software development, algorithms, and
 I am actively working on various projects involving:
 - Algorithm implementation and optimization
 - System design case studies
-- Machine learning model development
 - Open-source contributions
 
 Feel free to explore my repositories and reach out for collaboration opportunities.
