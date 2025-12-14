@@ -1,46 +1,102 @@
 <div align="center">
 
-[![Hello World, I'm Ashraful!](assets/header.gif)](https://github.com/AshrafulAbedin)
-Background GIF from [Pinterest](https://www.pinterest.com/pin/5277724550564022/).
+# Md. Ashraful Abedin
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/your_twitter) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-ashraful-abedin-3b653b1a9/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:asrafulfardin@gmail.com?subject=Hello%20Ashraful,%20From%20Github)
+**Software Engineer | System Design Enthusiast | Machine Learning Practitioner**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ashraful-abedin-3b653b1a9/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:asrafulfardin@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AshrafulAbedin)
 
 </div>
 
-- 🌱 I’m passionate about **System Design**, **C++**, and **Machine Learning**.
-- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats).
-- ⚡ Fun fact: I love typing challenges, exploring new tech, and playing chess.
+---
+
+## About Me
+
+I am a software engineer with a strong focus on **System Design**, **C++** development, and **Machine Learning**. I am passionate about building scalable systems, optimizing performance, and solving complex algorithmic challenges. Currently working on improving my problem-solving skills and contributing to open-source projects.
+
+- 🎓 Focused on computer science fundamentals and software architecture
+- 💼 Seeking opportunities in software development and system design roles
+- 🔬 Exploring machine learning applications and neural network architectures
+- 🏆 Actively working to strengthen my GitHub profile and technical contributions
+
+---
+
+## Technical Skills
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+
+### Areas of Interest
+- Data Structures & Algorithms
+- System Design & Architecture
+- Machine Learning & Neural Networks
+- Performance Optimization
+- Competitive Programming
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-## 💡 A Quote:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshrafulAbedin&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulAbedin&layout=compact&theme=default&hide_border=true)
 
-## 💻 My Tech Stack:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshrafulAbedin&theme=default&hide_border=true)
 
-[![C++, Java, Python, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=cpp,java,python,js,html,css)](https://skillicons.dev)
+</div>
 
-## 📖 Read My Blogs:
+---
 
-<p>
-    <a target="_blank" href="https://dev.to/your_username"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank" href="https://yourblog.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
-</p>
+## Professional Writing
 
-## 🏆 My Stats:
+I occasionally write technical articles on software development, algorithms, and machine learning:
 
-<p> 
-    :/
-</p>
+- [Dev.to](https://dev.to/your_username) - Technical tutorials and insights
+- [Hashnode](https://yourblog.hashnode.dev/) - Deep dives into system design and architecture
 
-## 🎮 When I'm AFK:
+---
 
-![Valorant](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white) &nbsp;
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) &nbsp;
-![Foodpanda](https://img.shields.io/badge/foodpanda-E23744?style=for-the-badge&logo=zomato&logoColor=white)
+## Projects & Contributions
+
+I am actively working on various projects involving:
+- Algorithm implementation and optimization
+- System design case studies
+- Machine learning model development
+- Open-source contributions
+
+Feel free to explore my repositories and reach out for collaboration opportunities.
+
+---
+
+## Contact
+
+I'm always interested in discussing software engineering, system design, and machine learning opportunities.
+
+**Email:** [asrafulfardin@gmail.com](mailto:asrafulfardin@gmail.com)  
+**LinkedIn:** [Md. Ashraful Abedin](https://www.linkedin.com/in/md-ashraful-abedin-3b653b1a9/)  
+**GitHub:** [@AshrafulAbedin](https://github.com/AshrafulAbedin)
+
+---
+
+<div align="center">
+
+*Last Updated: December 2025*
 
 </div>
