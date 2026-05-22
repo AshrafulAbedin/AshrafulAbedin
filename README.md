@@ -1,100 +1,93 @@
-<div align="center">
+<!-- header wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0805,50:1a1208,100:f59e0b&height=120&section=header&text=GarconXD&fontSize=36&fontColor=f59e0b&animation=twinkling&fontAlignY=42&desc=Ashraful%20Abedin&descSize=14&descAlignY=68&descColor=8b7a52" />
+</p>
 
-# Md. Ashraful Abedin
-
-**Aspiring Software Engineer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ashraful-abedin-3b653b1a9/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:asrafulfardin@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AshrafulAbedin)
-
-</div>
+<!-- typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=520&height=36&lines=I+use+Arch%2C+btw.;there+is+no+place+like+127.0.0.1;sudo+pacman+-Syu;gcc+-O2+-o+life+life.cpp+%26%26+.%2Flife;git+commit+-m+%22fix%3A+everything%22;%3Awq;while+true%3B+do+ship%3B+done" alt="typing" />
+</p>
 
 ---
 
-## About Me
+```sh
+$ cat about_me.txt
+```
 
-I am a software engineer with a strong focus on **System Design**, **C++** development. I am passionate about building scalable systems, optimizing performance, and solving complex algorithmic challenges and currently working on improving my problem-solving skills and contributing to open-source projects.
+```
+Name    :  Md. Ashraful Abedin
+Alias   :  GarconXD
+OS      :  Arch Linux  (btw)
+Shell   :  zsh
+Editor  :  nvim
+Home    :  127.0.0.1
+Status  :  sudo pacman -Syu  [###########---------]  67%
 
-- 🎓 Focused on computer science fundamentals and software architecture
-- 💼 Seeking opportunities in software development and system design roles
-- 🔬 Exploring machine learning applications and neural network architectures
-- 🏆 Actively working to strengthen my GitHub profile and technical contributions
-
----
-
-## Technical Skills
-
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-
-### Areas of Interest
-- Data Structures & Algorithms
-- System Design & Architecture
-- Performance Optimization
-
+> Aspiring software engineer obsessed with scalable systems,
+  algorithmic elegance, and the math behind neural networks.
+> Currently learning ML — backprop, gradient descent, transformers.
+> Writes on Dev.to & Hashnode.  gcc -O2 life && ./life
+```
 
 ---
 
-## GitHub Statistics
+```sh
+$ ls -la ~/stack
+```
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshrafulAbedin&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulAbedin&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshrafulAbedin&theme=default&hide_border=true)
-
-</div>
-
----
-
-## Professional Writing
-
-I occasionally write technical articles on software development, algorithms, and machine learning:
-
-- [Dev.to](https://dev.to/your_username) - Technical tutorials and insights
-- [Hashnode](https://yourblog.hashnode.dev/) - Deep dives into system design and architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-f59e0b?style=flat-square&logo=cplusplus&logoColor=0a0805" />
+  <img src="https://img.shields.io/badge/Python-4ade80?style=flat-square&logo=python&logoColor=0a0805" />
+  <img src="https://img.shields.io/badge/Java-f59e0b?style=flat-square&logo=openjdk&logoColor=0a0805" />
+  <img src="https://img.shields.io/badge/JavaScript-4ade80?style=flat-square&logo=javascript&logoColor=0a0805" />
+  <br/>
+  <img src="https://img.shields.io/badge/Arch_Linux-f59e0b?style=flat-square&logo=archlinux&logoColor=0a0805" />
+  <img src="https://img.shields.io/badge/Git-4ade80?style=flat-square&logo=git&logoColor=0a0805" />
+  <img src="https://img.shields.io/badge/VS_Code-f59e0b?style=flat-square&logo=visualstudiocode&logoColor=0a0805" />
+  <img src="https://img.shields.io/badge/TensorFlow-4ade80?style=flat-square&logo=tensorflow&logoColor=0a0805" />
+  <img src="https://img.shields.io/badge/NumPy-f59e0b?style=flat-square&logo=numpy&logoColor=0a0805" />
+</p>
 
 ---
 
-## Projects & Contributions
+```sh
+$ history | grep stats
+```
 
-I am actively working on various projects involving:
-- Algorithm implementation and optimization
-- System design case studies
-- Open-source contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshrafulAbedin&show_icons=true&hide_border=true&title_color=f59e0b&icon_color=4ade80&text_color=e8d5a3&bg_color=0d0d0a&ring_color=f59e0b&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulAbedin&layout=compact&hide_border=true&title_color=f59e0b&text_color=e8d5a3&bg_color=0d0d0a&langs_count=6" height="160" />
+</p>
 
-Feel free to explore my repositories and reach out for collaboration opportunities.
-
----
-
-## Contact
-
-I'm always interested in discussing software engineering, system design, and machine learning opportunities.
-
-**Email:** [asrafulfardin@gmail.com](mailto:asrafulfardin@gmail.com)  
-**LinkedIn:** [Md. Ashraful Abedin](https://www.linkedin.com/in/md-ashraful-abedin-3b653b1a9/)  
-**GitHub:** [@AshrafulAbedin](https://github.com/AshrafulAbedin)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshrafulAbedin&theme=transparent&hide_border=true&ring=f59e0b&fire=f59e0b&currStreakLabel=4ade80&sideLabels=8b7a52&currStreakNum=e8d5a3&sideNums=e8d5a3&dates=8b7a52" />
+</p>
 
 ---
 
-<div align="center">
+```sh
+$ git log --graph --oneline  # contribution activity
+```
 
-*Last Updated: December 2025*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshrafulAbedin&bg_color=0a0805&color=f59e0b&line=4ade80&point=f59e0b&area=true&area_color=f59e0b&hide_border=true&custom_title=commit+activity" />
+</p>
 
-</div>
+---
+
+```sh
+$ ssh contact@portfolio.dev
+```
+
+```
+  > asrafulfardin@gmail.com
+  > github.com/AshrafulAbedin
+  > linkedin.com/in/md-ashraful-abedin-3b653b1a9
+  > Response time: O(1)
+  > Connection: always open
+```
+
+<!-- footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:1a1208,100:0a0805&height=80&section=footer" />
+</p>
