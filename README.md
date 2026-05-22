@@ -73,12 +73,12 @@ $ history | grep stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AshrafulAbedin&show_icons=true&hide_border=true&title_color=f59e0b&icon_color=4ade80&text_color=e8d5a3&bg_color=090704&ring_color=f59e0b&include_all_commits=true&count_private=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=AshrafulAbedin&show_icons=true&hide_border=true&title_color=f59e0b&icon_color=4ade80&text_color=e8d5a3&bg_color=0d0b07&ring_color=f59e0b&include_all_commits=true&count_private=true"
     height="170"
     alt="stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulAbedin&layout=compact&hide_border=true&title_color=f59e0b&text_color=e8d5a3&bg_color=090704&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulAbedin&layout=compact&hide_border=true&title_color=f59e0b&text_color=e8d5a3&bg_color=0d0b07&langs_count=6"
     height="170"
     alt="langs"
   />
@@ -155,11 +155,11 @@ $ ssh contact@portfolio.dev
 
   ┌─────────────────────────────────────────────────────┐
   │                                                     │
-  │   📧  asrafulfardin@gmail.com                       │
-  │   🐙  github.com/AshrafulAbedin                     │
-  │   💼  linkedin.com/in/md-ashraful-abedin-3b653b1a9  │
-  │                                                     │
-  │   Response time: O(1)    Port: always open          │
+              📧  ashraful11@iut-dhaka.edu                       
+              🐙  github.com/AshrafulAbedin                     
+      💼  linkedin.com/in/md-ashraful-abedin-3b653b1a9  
+                                                       
+         Response time: O(1)    Port: always open          
   │                                                     │
   └─────────────────────────────────────────────────────┘
 ```
