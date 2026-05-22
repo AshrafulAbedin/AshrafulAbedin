@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <defs>
+    <style>
+      .f { font-family: 'SFMono-Regular','Cascadia Code','Fira Code','Courier New',monospace; }
+      @keyframes show  { from { opacity:0 } to { opacity:1 } }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+      @keyframes glow  { 0%,100%{opacity:.25} 50%{opacity:.55} }
+
+      .l00{opacity:0;animation:show .05s  .20s forwards}
+      .l01{opacity:0;animation:show .05s  .40s forwards}
+      .l02{opacity:0;animation:show .05s  .65s forwards}
+      .l03{opacity:0;animation:show .50s 1.10s forwards}
+      .l04{opacity:0;animation:show .05s 1.80s forwards}
+      .l05{opacity:0;animation:show .50s 2.20s forwards}
+      .l06{opacity:0;animation:show .05s 2.55s forwards}
+      .l07{opacity:0;animation:show .05s 2.75s forwards}
+      .l08{opacity:0;animation:show .05s 2.95s forwards}
+      .l09{opacity:0;animation:show .05s 3.15s forwards}
+      .l10{opacity:0;animation:show .05s 3.65s forwards}
+      .l11{opacity:0;animation:show .50s 4.05s forwards}
+      .l12{opacity:0;animation:show .05s 4.40s forwards}
+      .l13{opacity:0;animation:show .05s 4.58s forwards}
+      .l14{opacity:0;animation:show .05s 4.85s forwards}
+      .l15{opacity:0;animation:show .05s 5.20s forwards}
+      .cur{opacity:0;animation:blink 1.0s 5.20s infinite}
+      .glw{animation:glow 3.0s 1.0s ease-in-out infinite}
+    </style>
+
+    <!-- scanline pattern -->
+    <pattern id="scan" x="0" y="0" width="800" height="3" patternUnits="userSpaceOnUse">
+      <rect y="0" width="800" height="1.5" fill="rgba(0,0,0,0.07)"/>
+    </pattern>
+
+    <!-- amber edge glow filter -->
+    <filter id="ambglow" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- ── Window background ── -->
+  <rect width="800" height="420" rx="11" fill="#090704"/>
+
+  <!-- Amber border glow -->
+  <rect class="glw" x="1" y="1" width="798" height="418" rx="10" fill="none"
+        stroke="#f59e0b" stroke-width="1.2" filter="url(#ambglow)"/>
+
+  <!-- ── Title bar ── -->
+  <rect width="800" height="38" rx="11" fill="#0f0b05"/>
+  <rect y="28" width="800" height="10" fill="#0f0b05"/>
+  <line x1="0" y1="38" x2="800" y2="38" stroke="#1f1a0a" stroke-width="1"/>
+
+  <!-- Traffic lights -->
+  <circle cx="22" cy="19" r="6.5" fill="#ff5f56"/>
+  <circle cx="44" cy="19" r="6.5" fill="#ffbd2e"/>
+  <circle cx="66" cy="19" r="6.5" fill="#27c93f"/>
+
+  <!-- Title bar text -->
+  <text class="f l00" x="400" y="24" font-size="11.5" fill="#5a4a28"
+        text-anchor="middle" letter-spacing=".8">garcon@arch  ─  bash  ─  80×24</text>
+
+  <!-- ── BLOCK 1: whoami ── -->
+  <text class="f l01" x="24" y="70" font-size="13.5" fill="#4ade80">garcon@arch</text>
+  <text class="f l01" x="144" y="70" font-size="13.5" fill="#6b5c38">:</text>
+  <text class="f l01" x="150" y="70" font-size="13.5" fill="#729fcf">~</text>
+  <text class="f l01" x="164" y="70" font-size="13.5" fill="#e8d5a3">$</text>
+  <text class="f l02" x="182" y="70" font-size="13.5" fill="#f59e0b"> whoami</text>
+
+  <text class="f l03" x="24" y="90"  font-size="13.5" fill="#e8d5a3">Md. Ashraful Abedin</text>
+  <text class="f l03" x="240" y="90" font-size="13.5" fill="#3d3018">   # aspiring software engineer</text>
+
+  <!-- ── BLOCK 2: cat ── -->
+  <text class="f l04" x="24" y="118" font-size="13.5" fill="#4ade80">garcon@arch</text>
+  <text class="f l04" x="144" y="118" font-size="13.5" fill="#6b5c38">:</text>
+  <text class="f l04" x="150" y="118" font-size="13.5" fill="#729fcf">~</text>
+  <text class="f l04" x="164" y="118" font-size="13.5" fill="#e8d5a3">$</text>
+  <text class="f l05" x="182" y="118" font-size="13.5" fill="#f59e0b"> cat about_me.txt</text>
+
+  <text class="f l06" x="24" y="139" font-size="13" fill="#4ade80">›</text>
+  <text class="f l06" x="36" y="139" font-size="13" fill="#e8d5a3">I use</text>
+  <text class="f l06" x="80" y="139" font-size="13" fill="#f59e0b"> Arch</text>
+  <text class="f l06" x="112" y="139" font-size="13" fill="#e8d5a3">, btw.</text>
+  <text class="f l06" x="178" y="139" font-size="13" fill="#3d3018">                   # vim user. obviously.</text>
+
+  <text class="f l07" x="24" y="157" font-size="13" fill="#4ade80">›</text>
+  <text class="f l07" x="36" y="157" font-size="13" fill="#e8d5a3">There is no place like</text>
+  <text class="f l07" x="234" y="157" font-size="13" fill="#f59e0b"> 127.0.0.1</text>
+
+  <text class="f l08" x="24" y="175" font-size="13" fill="#4ade80">›</text>
+  <text class="f l08" x="36" y="175" font-size="13" fill="#e8d5a3">sudo pacman -Syu ml-knowledge</text>
+  <text class="f l08" x="332" y="175" font-size="13" fill="#4ade80">  [██████████░░░░░░] 62%</text>
+
+  <text class="f l09" x="24" y="193" font-size="13" fill="#4ade80">›</text>
+  <text class="f l09" x="36" y="193" font-size="13" fill="#e8d5a3">gcc -O2 -o life life.cpp &amp;&amp; ./life</text>
+  <text class="f l09" x="332" y="193" font-size="13" fill="#3d3018">  # compiling dreams...</text>
+
+  <!-- ── BLOCK 3: ls ~/stack ── -->
+  <text class="f l10" x="24" y="221" font-size="13.5" fill="#4ade80">garcon@arch</text>
+  <text class="f l10" x="144" y="221" font-size="13.5" fill="#6b5c38">:</text>
+  <text class="f l10" x="150" y="221" font-size="13.5" fill="#729fcf">~</text>
+  <text class="f l10" x="164" y="221" font-size="13.5" fill="#e8d5a3">$</text>
+  <text class="f l11" x="182" y="221" font-size="13.5" fill="#f59e0b"> ls ~/stack</text>
+
+  <!-- Row 1 of skills -->
+  <text class="f l12" x="24"  y="243" font-size="13" fill="#f59e0b">C++</text>
+  <text class="f l12" x="68"  y="243" font-size="13" fill="#e8d5a3">  Python</text>
+  <text class="f l12" x="170" y="243" font-size="13" fill="#e8d5a3">  Java</text>
+  <text class="f l12" x="234" y="243" font-size="13" fill="#e8d5a3">  JavaScript</text>
+  <text class="f l12" x="368" y="243" font-size="13" fill="#4ade80">  TensorFlow</text>
+  <text class="f l12" x="510" y="243" font-size="13" fill="#4ade80">  NumPy</text>
+
+  <!-- Row 2 of skills -->
+  <text class="f l13" x="24"  y="261" font-size="13" fill="#e8d5a3">Git</text>
+  <text class="f l13" x="58"  y="261" font-size="13" fill="#e8d5a3">  System-Design</text>
+  <text class="f l13" x="240" y="261" font-size="13" fill="#4ade80">  Neural-Networks</text>
+  <text class="f l13" x="416" y="261" font-size="13" fill="#e8d5a3">  DSA</text>
+  <text class="f l13" x="466" y="261" font-size="13" fill="#f59e0b">  Arch-Linux</text>
+
+  <!-- ── BLOCK 4: ssh contact ── -->
+  <text class="f l14" x="24" y="289" font-size="13.5" fill="#4ade80">garcon@arch</text>
+  <text class="f l14" x="144" y="289" font-size="13.5" fill="#6b5c38">:</text>
+  <text class="f l14" x="150" y="289" font-size="13.5" fill="#729fcf">~</text>
+  <text class="f l14" x="164" y="289" font-size="13.5" fill="#e8d5a3">$</text>
+  <text class="f l15" x="182" y="289" font-size="13.5" fill="#f59e0b"> ssh contact@portfolio.dev</text>
+
+  <!-- Blinking cursor -->
+  <rect class="cur" x="24" y="306" width="9" height="16" rx="1" fill="#4ade80"/>
+
+  <!-- ── Bottom divider + social ── -->
+  <line x1="24" y1="344" x2="776" y2="344" stroke="#1a1208" stroke-width="1"/>
+
+  <text class="f l15" x="24"  y="368" font-size="11" fill="#5a4a28">github.com/AshrafulAbedin</text>
+  <text class="f l15" x="272" y="368" font-size="11" fill="#2e2510"> · </text>
+  <text class="f l15" x="292" y="368" font-size="11" fill="#5a4a28">asrafulfardin@gmail.com</text>
+  <text class="f l15" x="530" y="368" font-size="11" fill="#2e2510"> · </text>
+  <text class="f l15" x="550" y="368" font-size="11" fill="#4ade80">ping — Response time: O(1)</text>
+
+  <!-- ── Bottom caption ── -->
+  <text class="f l15" x="400" y="400" font-size="10" fill="#2e2510"
+        text-anchor="middle">while true; do ship; done</text>
+
+  <!-- Scanlines overlay (last, on top) -->
+  <rect width="800" height="420" rx="11" fill="url(#scan)"/>
+</svg>
