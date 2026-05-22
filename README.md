@@ -155,11 +155,11 @@ $ ssh contact@portfolio.dev
 
   ┌─────────────────────────────────────────────────────┐
   │                                                     │
-              📧  ashraful11@iut-dhaka.edu                       
-              🐙  github.com/AshrafulAbedin                     
-      💼  linkedin.com/in/md-ashraful-abedin-3b653b1a9  
-                                                       
-         Response time: O(1)    Port: always open          
+  │   📧  asrafulfardin@gmail.com                       │
+  │   🐙  github.com/AshrafulAbedin                     │
+  │   💼  linkedin.com/in/md-ashraful-abedin-3b653b1a9  │
+  │                                                     │
+  │   Response time: O(1)    Port: always open          │
   │                                                     │
   └─────────────────────────────────────────────────────┘
 ```
